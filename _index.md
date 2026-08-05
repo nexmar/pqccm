@@ -81,7 +81,7 @@ The list below lists algorithms and formats standardized by FIPS/IETF/ITU-T. The
 | [DigiCert](#digicert)                       | Device Trust Manager                  | IoT device mgmt | 2025-06-05   |:x: |:x: |:x: |:x: |:heavy_check_mark: |:heavy_check_mark: |
 | [DigiCert](#digicert)                       | TrustCore SDK                         | Sw library             | 2025-06-05   |:x: |:x: |:x: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | [Entrust](#entrust)                         | nShield                               | HSM              | 2025-03-01   |N/A |:x: |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
-| [essendi it GmbH](#essendi-it-gmbh)         | essendi xc                            | CLM              | 2025-05-21   |:x: |:x: |:x: |:clock1: |:heavy_check_mark: |:clock1:|
+| [essendi it GmbH](#essendi-it-gmbh)         | essendi xc                            | CLM              | 2025-05-21   |:x: |:x: |:x: |:clock1: |:heavy_check_mark: |:heavy_check_mark:|
 | [EVERTRUST](#evertrust)                     | STREAM/HORIZON                        | PKI              | 2025-03-03   |:heavy_check_mark:|:x:|:x:|:clock1:|:heavy_check_mark:|:clock1:|
 | [Eviden](#eviden)                           | IDnomic PKI                           | PKI              | 2025-03-05   |:x:|:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | [Eviden](#eviden)                           | Trustway Proteccio™ NetHSM            | HSM      | 2024-12-09   |N/A |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
