@@ -98,7 +98,6 @@ The list below lists algorithms and formats standardized by FIPS/IETF/ITU-T. The
 | [Keyfactor](#keyfactor)                     | Command                               | PKI              | 2025-06-23   | :heavy_check_mark: | :x: | :x: | :x: | :heavy_check_mark: |:clock1: |
 | [Kudelski Labs](#kudelski-labs)             | keySTREAM                             | PKI              | 2026-05-22   | :x: | :heavy_check_mark: | :clock1: | :clock1: | :clock1: | :clock1: |
 | [Kudelski Labs](#kudelski-labs)             | Kudelski Secure Enclave               | IP Core          | 2026-05-22   | :x: | :heavy_check_mark: | :clock1: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| [Kudelski Labs](#kudelski-labs)             | Security Labs Services                | Assessment       | 2026-05-22   | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | [Microsoft](#microsoft)                     | SymCrypt/Windows/.NET                 | Sw library/OS| 2026-02-10   |:x: |:x: |:x: |:heavy_check_mark: |:heavy_check_mark: |:x: |
 | [MTG](#mtg-ag)                              | CARA                                  | PKI              | 2026-03-27   | :x:  | :clock1:  | :x:  | :clock1:  | :heavy_check_mark:  | :heavy_check_mark:  |
 | [MTG](#mtg-ag)                              | CLM                                   | PKI              | 2026-03-27   | :x:  | :clock1:  | :x:  | :clock1:  | :heavy_check_mark:  | :heavy_check_mark:  |
@@ -282,11 +281,9 @@ MTG KMS, a key management system, [supports ML-DSA and SLH-DSA](https://docs.mtg
 
 ## Kudelski Labs
 
-Kudelski Labs brings more than 30 years of expertise in cryptography, key management, device security, and trusted digital ecosystems, with proven experience deploying PKI-enabled solutions at scale across media, semiconductor, IoT, and critical infrastructure markets.
-
-Based on its work in device identity, credential lifecycle management, secure provisioning, and post-quantum cryptography, Kudelski Labs is committed to advancing interoperable, crypto-agile trust frameworks that address the evolving security needs of connected industries. 
-
-By participating in the PKI Consortium, Kudelski Labs aims to contribute real-world expertise, collaborate on emerging standards, and help accelerate the adoption of trusted digital identities from chip to cloud.
+Kudelski Labs delivers security technologies and services that enable trusted device identity, key management, secure provisioning,
+firmware lifecycle management, and quantum-resistant cryptography. This matrix includes the keySTREAM device lifecycle security
+platform and the Kudelski Secure Enclave (KSE) portfolio of security IP cores.
 
 ## Microsoft
 
