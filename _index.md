@@ -12,6 +12,9 @@ tags:
 - resource
 ---
 
+> The PQC Capabilities Matrix have been archived and is no longer maintained. Product PQC capabilities and maturity will be managed using the [PQC Maturity Model](https://pkic.org/wg/pqc/pqcmm/) in the future.
+{.callout-info}
+
 The PKI Consortium is managing a PQC Capabilities Matrix (PQCCM) of software applications, libraries and hardware that includes support for 
 Post Quantum Cryptography, without endorsing their implementation or quality.
 
